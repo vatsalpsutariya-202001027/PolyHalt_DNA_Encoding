@@ -1,0 +1,1 @@
+<br>Total codewords are : 15<br><br><br><br>CTCA<br>TACG<br>TCAC<br>TCGT<br>TGCT<br>CACT<br>CAGA<br>TGTC<br>CATC<br>CTGT<br>TAGC<br>CTAC<br>TGAG<br>CGTA<br>CGAT<br><br><br><br>You are having information density of: <br>0.976723<br>
