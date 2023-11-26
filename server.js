@@ -32,7 +32,7 @@ app.post("/getCode", (req, res) => {
     console.log("C++ code compiled successfully.");
 
     // Run C++ executable
-    exec("algo_code.exe", (error, stdout, stderr) => {
+    exec("algo_code", (error, stdout, stderr) => {
       if (error) {
         console.error(`Execution error: ${error.message}`);
         return;
